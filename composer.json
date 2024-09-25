@@ -1,0 +1,7 @@
+{
+  "require": {
+    "rickselby/nbt": "~4.0",
+    "sabre/dav": "~4.6.0",
+    "ext-zlib": "*"
+  }
+}
